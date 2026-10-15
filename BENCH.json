@@ -2,13 +2,11 @@
  "schema": "anticloud.tier-bench/1",
  "project": "RAWTHERAPEE",
  "source": {
-  "repo_path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\CAMERAS\\RAWTHERAPEE\\UPSTREAM_CLONE",
   "git": {
-   "head": "a39c2e7a44911889c3360891012f862f904ba551",
-   "url": "https://github.com/letmaik/rawpy",
-   "branch": "main",
-   "committed_at": "",
-   "sha_verified_from": "GitHub API substitute swap 2026-10-12 | unified 2026-10-14 (API-exists + content/clone anchor)"
+   "url": "https://github.com/RawTherapee/RawTherapee",
+   "head": "b2ee504c47e5e6d5e054395aa12bf1fe43bd1c3c",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/letmaik/rawpy"
   }
  },
  "metrics": {
